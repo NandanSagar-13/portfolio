@@ -14,7 +14,7 @@ export const portfolioData = {
   about: {
     bio: `I'm a hybrid engineer bridging the gap between software and hardware, specializing in Android development, IoT systems, and AI integration. Currently pursuing B.E. in Electronics and Communication Engineering at AMC Engineering College, I've architected real-world solutions that serve 20+ beta(trial) users and achieved technical milestones like 2km LoRa communication range. My journey spans from building intelligent mobile apps with Kotlin and Jetpack Compose to engineering embedded systems with ESP32 and Arduino.`,
     stats: [
-      { value: "10+", label: "Projects Completed" },
+      { value: "5+", label: "Projects Completed" },
       { value: "20+", label: "Beta(Trial) Users" },
       { value: "2 KM", label: "LoRa Range Achieved" },
       { value: "17+", label: "Salesforce Badges" },
@@ -51,7 +51,7 @@ export const portfolioData = {
         "Built SMS auto-detection system using BroadcastReceiver achieving 85% accuracy in parsing transaction details from 8+ Indian banks, automatically categorizing expenses and updating budgets",
         "Developed AI chatbots using Salesforce Agentforce and Google Vertex AI, reducing query resolution time by 40% through intelligent context-aware automation",
         "Integrated GenAI tools across SDLC phases, improving team productivity by 25% through automated code review and documentation generation",
-        "Earned 12+ Salesforce Trailhead badges in AI Development, App Builder, and Admin Essentials",
+        "Earned 17+ Salesforce Trailhead badges in AI Development, App Builder, and Admin Essentials",
       ],
     },
     {
