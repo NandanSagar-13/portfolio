@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react';
-import { Sun, Moon, Menu, X } from 'lucide-react';
+import { Sun, Moon } from 'lucide-react';
 
 export default function Navbar({ theme, toggleTheme }) {
-  const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
